@@ -1,0 +1,12 @@
+
+    prodotto: mele,
+    quantità: 5
+
+    prodotto: cavolfiori,
+    quantità: 7
+
+    prodotto: pere,
+    quantità: 2
+
+    prodotto: finocchio,
+    quantità: 4

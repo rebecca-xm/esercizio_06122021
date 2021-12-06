@@ -1,0 +1,22 @@
+{
+  "name": "esercizio_06122021",
+  "version": "1.0.0",
+  "description": "Lista spesa in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebecca-xm/esercizio_06122021.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebecca-xm/esercizio_06122021/issues"
+  },
+  "homepage": "https://github.com/rebecca-xm/esercizio_06122021#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
