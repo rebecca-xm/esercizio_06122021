@@ -10,3 +10,8 @@
 
     prodotto: finocchio,
     quantità: 4
+
+
+ prodotto: cavoli quantity: 4
+ prodotto: cavoli quantity: 4
+ prodotto: latte quantity: 4
